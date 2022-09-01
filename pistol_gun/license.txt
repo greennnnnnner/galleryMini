@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pistol Gun
+* source:	https://sketchfab.com/3d-models/pistol-gun-b66fff22d20c4f9eb82f1a463efa9837
+* author:	AOL_DarkHairLion (https://sketchfab.com/a632348206)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pistol Gun" (https://sketchfab.com/3d-models/pistol-gun-b66fff22d20c4f9eb82f1a463efa9837) by AOL_DarkHairLion (https://sketchfab.com/a632348206) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
